@@ -1,0 +1,26 @@
+# Large datasets
+archive/
+DATASET_BIG/
+*.zip
+
+# Processed arrays
+*.npy
+
+# Audio files
+*.wav
+
+# Models
+*.pkl
+*.pth
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+marine_env/
+env/
